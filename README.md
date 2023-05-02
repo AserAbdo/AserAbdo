@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aser</h1>
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
 
-- 🔭 I’m currently working **Freelancing**
+- 🔭 I’m **Freelancer**
 
 - 🌱 I’m currently learning **Flutter**
 
