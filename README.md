@@ -37,3 +37,5 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=AserPhantom&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="Aser" 
     bg_color=#808080/></p>
+
+<h6 align="center">Made with ❤️ by Me )</h6>
