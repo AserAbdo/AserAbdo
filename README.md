@@ -38,4 +38,4 @@
     alt="Aser" 
     bg_color=#808080/></p>
 
-<h6 align="center">Made with ❤️ by Me )</h6>
+<h6 align="center">Made with ❤️ by Me </h6>
