@@ -2,8 +2,26 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Aser+Abdel+Ghaffar;Flutter+Developer+%7C+3%2B+Years;Building+Scalable+Mobile+Apps;Self-Taught+Developer+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🎓 Cairo University Graduate | 📱 Flutter Developer | 🌟 8K+ LinkedIn Followers | 💼 Production Apps Developer</h3>
-
+<div align="center">
+  
+  <!-- Gradient Wave Header -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=180&section=header" />
+  
+  <!-- Animated Multi-line Title -->
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%F0%9F%93%B1+Cross-Platform+Mobile+Software+Engineer;%F0%9F%92%99+Flutter+Developer+%7C+Building+Scalable+Apps;%E2%9A%A1+Dart+%E2%80%A2+Firebase+%E2%80%A2+Clean+Architecture+%E2%80%A2+SOLID" alt="Animated Title" />
+  
+  <!-- Skill Highlights -->
+  <p>
+    <img src="https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dart-Specialist-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-Pro-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+    <img src="https://img.shields.io/badge/Clean_Code-Advocate-6C63FF?style=for-the-badge" />
+  </p>
+  
+  <!-- Animated Separator -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%">
+  
+</div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AserAbdo&label=Profile%20views&color=6C63FF&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/AserAbdo?label=Followers&style=social" alt="followers" />
