@@ -20,13 +20,19 @@
   
   <!-- Animated Separator -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%">
-  
-</div>
+  </div>
 <p align="center">
-  <a href="https://www.linkedin.com/in/aser-abdel-ghaffar-/">
-    <img src="https://img.shields.io/badge/LinkedIn-8K%2B%20Followers-blue?style=flat&logo=linkedin" alt="LinkedIn followers" />
+  <!-- Auto-counts your actual repos -->
+  <a href="https://github.com/AserAbdo?tab=repositories">
+    <img src="https://img.shields.io/github/repos/AserAbdo?style=flat-square&logo=github&color=6C63FF&label=Repositories" alt="GitHub Repos" />
   </a>
-</p>
+  <!-- Total Commits -->
+<img src="https://img.shields.io/github/commit-activity/t/AserAbdo/YOUR-REPO?style=flat-square&logo=github&label=Commits" />
+    <!-- LinkedIn manual count -->
+  <a href="https://www.linkedin.com/in/aser-abdel-ghaffar-/">
+    <img src="https://img.shields.io/badge/LinkedIn-8K%2B%20Followers-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+ </p>
 
 ---
 
