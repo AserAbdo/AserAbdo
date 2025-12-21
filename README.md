@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/aser-abdel-ghaffar-/">
     <img src="https://img.shields.io/badge/LinkedIn-8K%2B%20Followers-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn" />
   </a>
-<img src="https://komarev.com/ghpvc/?username=AserAbdo&label=Profile%20Views&color=FFCA28&text_color=000000&style=flat-square" alt="views" />
+<img src="https://img.shields.io/github/profile-views/AserAbdo?color=FFCA28&labelColor=111827&style=flat-square" alt="Profile Views" />
 </p>
 
 <!-- Animated Divider -->
