@@ -430,11 +430,11 @@ AI-powered teacher assistant for attendance and assessments
 </td>
 
 <td width="20%" align="center" valign="top">
-  <img src="https://img.shields.io/badge/Impact-8K%2B_Community-0175C2?style=for-the-badge&labelColor=02569B" />
+  <img src="https://img.shields.io/badge/Present-Community_Leader-0175C2?style=for-the-badge&labelColor=02569B" />
   <br><br>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="80" />
   <br><br>
-  <b>Community Leader</b><br>
+  <b>8K+ Community</b><br>
   <sub>Published Apps<br>Knowledge Sharing</sub>
 </td>
 </tr>
