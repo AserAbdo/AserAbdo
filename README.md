@@ -22,8 +22,7 @@
   <a href="https://www.linkedin.com/in/aser-abdel-ghaffar-/">
     <img src="https://img.shields.io/badge/LinkedIn-8K%2B%20Followers-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn" />
   </a>
-<img src="https://img.shields.io/github/profile-views/AserAbdo?color=FFCA28&labelColor=111827&style=flat-square" alt="Profile Views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=AserAbdo&label=Profile%20Views&color=02569B&style=for-the-badge&labelColor=0175C2" alt="Profile Views" /></p>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%">
