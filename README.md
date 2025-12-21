@@ -17,7 +17,7 @@
 <!-- Profile Stats -->
 <p>
   <a href="https://github.com/AserAbdo?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AserAbdo&query=$.public_repos&label=Repositories&style=flat-square&logo=github&color=6C63FF&labelColor=1a1b27" alt="GitHub Repos" />
+<img src="https://img.shields.io/badge/Repositories-+33-00C853?style=flat-square&logo=github&labelColor=1a1b27" />
   </a>
   <a href="https://www.linkedin.com/in/aser-abdel-ghaffar-/">
     <img src="https://img.shields.io/badge/LinkedIn-8K%2B%20Followers-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn" />
