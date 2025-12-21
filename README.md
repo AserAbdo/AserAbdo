@@ -23,8 +23,6 @@
   
 </div>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AserAbdo&label=Profile%20views&color=6C63FF&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/AserAbdo?label=Followers&style=social" alt="followers" />
   <a href="https://www.linkedin.com/in/aser-abdel-ghaffar-/">
     <img src="https://img.shields.io/badge/LinkedIn-8K%2B%20Followers-blue?style=flat&logo=linkedin" alt="LinkedIn followers" />
   </a>
