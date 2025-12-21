@@ -396,7 +396,7 @@ AI-powered teacher assistant for attendance and assessments
 <td width="20%" align="center" valign="top">
   <img src="https://img.shields.io/badge/2020--2025-Healthcare-E3F2FD?style=for-the-badge&labelColor=02569B" />
   <br><br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Stethoscope.png" width="80" />
+  <img src="https://img.icons8.com/fluency/96/stethoscope.png" width="80" height="80" alt="Healthcare"/>
   <br><br>
   <b>Cairo University</b><br>
   <sub>Nursing Graduate<br>IT Support Experience</sub>
@@ -405,7 +405,7 @@ AI-powered teacher assistant for attendance and assessments
 <td width="20%" align="center" valign="top">
   <img src="https://img.shields.io/badge/2022-Self--Taught-BBDEFB?style=for-the-badge&labelColor=0175C2" />
   <br><br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="80" />
+  <img src="https://img.icons8.com/fluency/96/laptop.png" width="80" height="80" alt="Learning"/>
   <br><br>
   <b>Career Transition</b><br>
   <sub>Learned Flutter & Dart<br>Built Portfolio Projects</sub>
@@ -414,7 +414,7 @@ AI-powered teacher assistant for attendance and assessments
 <td width="20%" align="center" valign="top">
   <img src="https://img.shields.io/badge/2022--2025-Professional-90CAF9?style=for-the-badge&labelColor=02569B" />
   <br><br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="80" />
+  <img src="https://img.icons8.com/fluency/96/briefcase.png" width="80" height="80" alt="Professional"/>
   <br><br>
   <b>PST Egypt</b><br>
   <sub>First Flutter Developer<br>Production Apps</sub>
@@ -423,7 +423,7 @@ AI-powered teacher assistant for attendance and assessments
 <td width="20%" align="center" valign="top">
   <img src="https://img.shields.io/badge/2025--Present-Senior_Dev-54C5F8?style=for-the-badge&labelColor=0175C2" />
   <br><br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="80" />
+  <img src="https://img.icons8.com/fluency/96/rocket.png" width="80" height="80" alt="Senior"/>
   <br><br>
   <b>DeveloperXSoftware</b><br>
   <sub>Healthcare & Delivery<br>Team Leadership</sub>
@@ -432,7 +432,7 @@ AI-powered teacher assistant for attendance and assessments
 <td width="20%" align="center" valign="top">
   <img src="https://img.shields.io/badge/Present-Community_Leader-0175C2?style=for-the-badge&labelColor=02569B" />
   <br><br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="80" />
+  <img src="https://img.icons8.com/fluency/96/trophy.png" width="80" height="80" alt="Community"/>
   <br><br>
   <b>8K+ Community</b><br>
   <sub>Published Apps<br>Knowledge Sharing</sub>
@@ -443,6 +443,10 @@ AI-powered teacher assistant for attendance and assessments
 <img src="https://capsule-render.vercel.app/api?type=rect&color=02569B&height=2" width="100%" />
 
 <br>
+
+💙 **Why My Journey Matters**
+
+My healthcare background taught me empathy, attention to detail, and the importance of reliable systems. Combined with 3+ years of Flutter development, I bring a unique perspective to building user-focused applications that solve real problems and deliver measurable impact.
 
 </div>
 
