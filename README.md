@@ -385,26 +385,64 @@ AI-powered teacher assistant for attendance and assessments
 </table>
 
 <br>
-
 ## 🎓 My Unique Journey
 
 <div align="center">
 
-```mermaid
-graph LR
-    A[🏥 Healthcare<br/>Cairo University] --> B[💻 Self-Taught<br/>Programming]
-    B --> C[🚀 Career<br/>Transition]
-    C --> D[📱 3+ Years<br/>Flutter Experience]
-    D --> E[🌟 8K+ LinkedIn<br/>Community]
-    E --> F[🎯 Building<br/>Impact Apps]
-    
-    style A fill:#e1bee7
-    style B fill:#c5cae9
-    style C fill:#b2dfdb
-    style D fill:#c8e6c9
-    style E fill:#fff9c4
-    style F fill:#ffccbc
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=02569B&height=2" width="100%" />
+
+<table>
+<tr>
+<td width="20%" align="center" valign="top">
+  <img src="https://img.shields.io/badge/2020--2025-Healthcare-E3F2FD?style=for-the-badge&labelColor=02569B" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Stethoscope.png" width="80" />
+  <br><br>
+  <b>Cairo University</b><br>
+  <sub>Nursing Graduate<br>IT Support Experience</sub>
+</td>
+
+<td width="20%" align="center" valign="top">
+  <img src="https://img.shields.io/badge/2022-Self--Taught-BBDEFB?style=for-the-badge&labelColor=0175C2" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="80" />
+  <br><br>
+  <b>Career Transition</b><br>
+  <sub>Learned Flutter & Dart<br>Built Portfolio Projects</sub>
+</td>
+
+<td width="20%" align="center" valign="top">
+  <img src="https://img.shields.io/badge/2022--2025-Professional-90CAF9?style=for-the-badge&labelColor=02569B" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="80" />
+  <br><br>
+  <b>PST Egypt</b><br>
+  <sub>First Flutter Developer<br>Production Apps</sub>
+</td>
+
+<td width="20%" align="center" valign="top">
+  <img src="https://img.shields.io/badge/2025--Present-Senior_Dev-54C5F8?style=for-the-badge&labelColor=0175C2" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="80" />
+  <br><br>
+  <b>DeveloperXSoftware</b><br>
+  <sub>Healthcare & Delivery<br>Team Leadership</sub>
+</td>
+
+<td width="20%" align="center" valign="top">
+  <img src="https://img.shields.io/badge/Impact-8K%2B_Community-0175C2?style=for-the-badge&labelColor=02569B" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="80" />
+  <br><br>
+  <b>Community Leader</b><br>
+  <sub>Published Apps<br>Knowledge Sharing</sub>
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=02569B&height=2" width="100%" />
+
+<br>
 
 </div>
 
@@ -418,8 +456,6 @@ graph LR
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aserabdo.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aser-abdel-ghaffar-/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aserabdocontact@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AserAbdo)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Aser.Abdel.Ghaffar.Mohamed/)
 
 <br>
