@@ -92,7 +92,7 @@ class AserAbdelGhaffar {
 </td>
 <td width="50%">
 
-- 🚀 **Published apps** on Google Play
+- 🚀 **Published apps** on Google Play & App Store
 - 💼 **DeveloperXSoftware** - Current employer
 - 🏆 **NTI Scholarship** - 90-hour intensive training
 - 📚 **Multiple certifications** from Google, Microsoft, Meta
