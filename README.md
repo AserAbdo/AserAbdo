@@ -18,10 +18,10 @@
 <p>
   <p align="center">
   <a href="https://github.com/AserAbdo?tab=repositories">
-    <img src="https://img.shields.io/badge/📦%20Repositories-33-02569B?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+    <img src="https://img.shields.io/badge/📦%20Repositories-40-02569B?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
   <a href="https://www.linkedin.com/in/aser-abdel-ghaffar-/">
-    <img src="https://img.shields.io/badge/LinkedIn-8K%2B%20Followers-02569B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-9K%2B%20Followers-02569B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=AserAbdo&label=Profile%20Views&color=02569B&style=for-the-badge&labelColor=0175C2" alt="Profile Views" />
 </p>
@@ -85,9 +85,9 @@ class AserAbdelGhaffar {
 <td width="50%">
 
 - 🔥 **3+ years** building production Flutter apps
-- 📱 **30+ repositories** with diverse projects
+- 📱 **40+ repositories** with diverse projects
 - 🎓 **Self-taught** - healthcare to tech transition
-- 👥 **8K+ LinkedIn followers** - active community builder
+- 👥 **9K+ LinkedIn followers** - active community builder
 
 </td>
 <td width="50%">
@@ -327,7 +327,7 @@ AI-powered teacher assistant for attendance and assessments
 </tr>
 </table>
 
-> 📂 **30+ repositories** available on my GitHub profile - Feel free to explore!
+> 📂 **40+ repositories** available on my GitHub profile - Feel free to explore!
 
 <br>
 
