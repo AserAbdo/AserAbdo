@@ -434,7 +434,7 @@ AI-powered teacher assistant for attendance and assessments
   <br><br>
   <img src="https://img.icons8.com/fluency/96/trophy.png" width="80" height="80" alt="Community"/>
   <br><br>
-  <b>8K+ Community</b><br>
+  <b>9K+ Community</b><br>
   <sub>Published Apps<br>Knowledge Sharing</sub>
 </td>
 </tr>
